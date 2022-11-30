@@ -9,5 +9,5 @@ My name is Kelvin, you can call me Kel and i recently started the journey to bec
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kel9858)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoloalltheway)](https://github.com/anuraghazra/github-readme-stats)
 
